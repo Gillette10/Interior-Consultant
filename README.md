@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://interior-consultant-by-gillette10.netlify.app/}">
+    <a href="https://{interior-consultant-by-gillette10.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/Gillette10/Interior-Consultant}">
+    <a href="https://{github.com/Gillette10/Interior-Consultant}">
       Solution
     </a>
     <span> | </span>
