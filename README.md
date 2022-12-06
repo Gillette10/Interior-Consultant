@@ -42,7 +42,9 @@
 
 
 
-A demo version of a project can be found on the link provided in the above in the demo section.
+
+
+A demo version of the project can be found above in the demo section.
 First time doing a hamburger menu and it was an awesome exercise for me. 
 I will continue to improve in various aspect of using the Javascript langauge as I do more projects.
 
