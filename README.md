@@ -36,9 +36,9 @@
 
 ## Overview
 
-![screenshot- Desktop View](./Screenshots/DesktopView.png)
+![screenshot- Desktop View](./Screenshots/DesktopView.png)- Desktop View
 
-![screenshot- Mobile View](./Screenshots/MobileView.png)
+![screenshot- Mobile View](./Screenshots/MobileView.png) - Mobile View
 
 
 
